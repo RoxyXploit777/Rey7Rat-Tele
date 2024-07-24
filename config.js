@@ -2,8 +2,8 @@
 
 module.exports = (client) => {
     return {
-        token: "REPLACE ME WITH YOUR BOT TOKEN",
-        chatid: "REPLACE ME WITH YOUR CHAT ID",
+        token: "7386590582:AAG-oiDMR8bscxQ2Sx8nWLybE-MBCE5g9BY",
+        chatid: "5595577125",
         url: "DONT TOUCH ME",
     }
 }
